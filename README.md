@@ -1,5 +1,5 @@
-# 💫 Hi my name is : Othmane Boubecheur
-# I'm a Full Stack Developper 
+# 💫 Hi my name is : Othmane Boubecheur 
+# ⌨️ I'm a Full Stack Developper from Morocco 🇲🇦
 🔭 I’m currently working on Java and C Projects<br>🌱 I’m currently learning C/C++, Docker<br>💬 Ask me about Anything. You are welcome<br>📫 How to reach me othmanesticky@gmail.com
 
 
