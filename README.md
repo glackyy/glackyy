@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=impact&size=30&pause=1000&color=C4F758&width=440&lines=Welcome+to+my+Profile+++%F0%9F%A4%A0;Hope+you+have+a+great+day+!+%F0%9F%A4%8D)](https://git.io/typing-svg)
 # 💫 Hi my name is : Othmane Boubecheur 
-# ⌨️ I'm a Full Stack Developper from Morocco 🇲🇦
+# ⌨️ I'm a Full Stack Developer from Morocco 🇲🇦
 🔭 I’m currently working on Java and C Projects<br>🌱 I’m currently learning C/C++, Docker<br>💬 Ask me about Anything. You are welcome<br>📫 How to reach me othmanesticky@gmail.com
 
 
