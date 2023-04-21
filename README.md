@@ -2,7 +2,7 @@
 # 💫 Hi my name is : Othmane Boubecheur 
 # ⌨️ I'm a Full Stack Developer from Morocco 
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=0&color=0)](https://visitcount.itsvg.in)
-🔭 I’m currently working on Java and C Projects<br>🌱 I’m currently learning C/C++, Docker<br>💬 Ask me about Anything. You are welcome<br>📫 How to reach me othmanesticky@gmail.com
+# 🔭 I’m currently working on Java and C Projects<br>🌱 I’m currently learning C/C++, Docker<br>💬 Ask me about Anything. You are welcome<br>📫 How to reach me othmanesticky@gmail.com
 
 
 ## 🌐 Socials:
