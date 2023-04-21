@@ -5,8 +5,8 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/B.SaiyajiN/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiyajinb98/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/glackybeatz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/glackybeatz?s=11&t=nYZHDdWiptQWlZArDlRnaQ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCzZTqPX9iCoSU6Git8cA6RA) 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="480" heigh="360"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="380" heigh="260"/>
 </div>
 
 # 💻 Tech Stack:
