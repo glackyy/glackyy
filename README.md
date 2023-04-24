@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D" alt="Typing SVG" /></a>
 # 💫 Hi my name is : Othmane Boubecheur 
 # ⌨️ I'm a Full Stack Developer from Morocco 
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=0&color=0)](https://visitcount.itsvg.in)
