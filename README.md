@@ -17,9 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=glackyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glackyy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glackyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/glackybeatz?s=11&t=nYZHDdWiptQWlZArDlRnaQ)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
