@@ -5,15 +5,15 @@
 <div align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" heigh="400"/>
 </div>
-
+<div align="top">
 🔭 I’m currently working on Python/JAVA Projects
 
 
 🌱 I’m currently learning JavaScript/NodeJS
 
 
-💬 Ask me about Anything, You are Welcome<br>
-
+💬 Ask me about Anything, You are Welcome
+</div>
 ---
 
 
