@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
-  🔭 I’m currently working on Python/JAVA Projects
+  <h2>🔭 I’m currently working on Python/JAVA Projects</h2>
 
   🌱 I’m currently learning JavaScript/NodeJS
 
