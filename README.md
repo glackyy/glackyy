@@ -5,7 +5,7 @@
 <div align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" heigh="400"/>
 </div>
-<div align="top">
+
 🔭 I’m currently working on Python/JAVA Projects
 
 
@@ -13,7 +13,7 @@
 
 
 💬 Ask me about Anything, You are Welcome
-</div>
+
 ---
 
 
