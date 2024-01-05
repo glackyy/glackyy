@@ -13,7 +13,7 @@
     💬 Ask me about Anything, You are Welcome
   </div>
 
-  <div style="flex-shrink: 0;" align="top-right">
+  <div style="flex-shrink: 0;" align="top" align="right">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="400"/>
   </div>
 
