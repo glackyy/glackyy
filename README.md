@@ -2,17 +2,12 @@
 <h1 align="center">Full Stack Developer | Backend</h1>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
   # 💫 About Me:
-
   🔭 I’m currently working on Python/JAVA Projects
 
   🌱 I’m currently learning JavaScript/NodeJS
 
   💬 Ask me about Anything, You are Welcome
-
----
-
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=4&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
