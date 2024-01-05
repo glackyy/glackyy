@@ -1,26 +1,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D" alt="Typing SVG" /></a>
 # Full Stack Developer | Backend
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-
-  <div style="flex-shrink: 0;" align="right">
+  <div align="right">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="400"/>
   </div>
   
-    # 💫 About Me:
+  # 💫 About Me:
 
-    🔭 I’m currently working on Python/JAVA Projects
+  🔭 I’m currently working on Python/JAVA Projects
 
-    🌱 I’m currently learning JavaScript/NodeJS
+  🌱 I’m currently learning JavaScript/NodeJS
 
-    💬 Ask me about Anything, You are Welcome
-  </div>
+  💬 Ask me about Anything, You are Welcome
 
-</div>
-
-
-
+---
 
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=4&color=11)](https://visitcount.itsvg.in)
 
