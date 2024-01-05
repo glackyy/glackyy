@@ -3,7 +3,7 @@
 # ⌨️ I'm a Full Stack Developer | Backend
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" heigh="260"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" heigh="260"/>
 </div>
 
 # 💫 About Me:
