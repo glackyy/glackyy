@@ -6,7 +6,7 @@
 ---
 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" heigh="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" heigh="400"/>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=4&color=11)](https://visitcount.itsvg.in)
