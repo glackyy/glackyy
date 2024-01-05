@@ -3,9 +3,9 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
-  <h4>🔭 I’m currently working on Python/JAVA Projects</h4>
-  <h4>🌱 I’m currently learning JavaScript/NodeJS</h4>
-  <h4>💬 Ask me about Anything, You are Welcome</h4>
+  <h3>🔭 I’m currently working on Python/JAVA Projects</h3>
+  <h3>🌱 I’m currently learning JavaScript/NodeJS</h3>
+  <h3>💬 Ask me about Anything, You are Welcome</h3>
   
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=4&color=11)](https://visitcount.itsvg.in)
 
