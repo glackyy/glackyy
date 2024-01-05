@@ -8,7 +8,6 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="400"/>
   </div>
   
-  <div style="flex: 1;">
     # 💫 About Me:
 
     🔭 I’m currently working on Python/JAVA Projects
