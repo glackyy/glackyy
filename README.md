@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D" alt="Typing SVG" /></a>
 <h1 align="center">Full Stack Developer | Backend</h1>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
