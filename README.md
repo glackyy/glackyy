@@ -2,7 +2,11 @@
 # Full Stack Developer | Backend
 
 # 💫 About Me:
-🔭 I’m currently working on Python/JAVA Projects<br>🌱 I’m currently learning JavaScript/NodeJS<br>💬 Ask me about Anything, You are Welcome<br>
+🔭 I’m currently working on Python/JAVA Projects
+
+🌱 I’m currently learning JavaScript/NodeJS
+
+💬 Ask me about Anything, You are Welcome<br>
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" heigh="400"/>
 </div>
