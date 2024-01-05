@@ -1,6 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D" alt="Typing SVG" /></a>
 # 💫 Hi my name is : Othmane Boubecheur 
 # ⌨️ I'm a Full Stack Developer | Backend
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" heigh="260"/>
+</div>
 # 💫 About Me:
 🔭 I’m currently working on Python/JAVA Projects<br>🌱 I’m currently learning JavaScript/NodeJS<br>💬 Ask me about Anything, You are Welcome<br>
 ---
