@@ -19,10 +19,6 @@
   <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="380" heigh="260"/>
 </div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=glackyy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glackyy&theme=tokyonight&hide_border=false)<br/>
