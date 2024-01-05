@@ -1,9 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+Profile+%F0%9F%A4%A0;Have+A+Great+Day+%F0%9F%A4%8D" alt="Typing SVG" /></a>
+<div align="center">
 # Full Stack Developer | Backend
-
-  <div align="right">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="400"/>
-  </div>
+</div>
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="400"/>
+</div>
   
   # 💫 About Me:
 
