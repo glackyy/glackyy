@@ -7,6 +7,7 @@
   <h3>🌱 I’m currently learning TypeScript</h3>
   <h3>💬 Ask me about Anything, You are Welcome</h3>
   
+[![committers.top badge](https://user-badge.committers.top/morocco_public/USERNAME.svg)](https://user-badge.committers.top/morocco_public/USERNAME)
 [![](https://visitcount.itsvg.in/api?id=glackyy&icon=4&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
