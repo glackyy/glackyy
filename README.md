@@ -1,6 +1,5 @@
 <img src="https://github.com/glackyy/maroc.github.io/blob/master/programmer.jpg">
 <h1 align="center">Full Stack Developer | Backend</h1>
-[![](https://visitcount.itsvg.in/api?id=glackyy&icon=4&color=11)](https://visitcount.itsvg.in)
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
@@ -9,6 +8,9 @@
   <h3>💬 Ask me about Anything, You are Welcome</h3>
 
 [![committers.top badge](https://user-badge.committers.top/morocco_public/glackyy.svg)](https://user-badge.committers.top/morocco_public/glackyy)
+
+[![](https://visitcount.itsvg.in/api?id=glackyy&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/B.SaiyajiN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saiyajinb98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OthmaneBoubecheur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@othmanesticky) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/glackyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@glackybeatz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/glackybeatz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/glackybeatz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@glackybeatz) 
