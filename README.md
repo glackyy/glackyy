@@ -1,7 +1,5 @@
 <img src="https://github.com/glackyy/maroc.github.io/blob/master/programmer.jpg">
 <h1 align="center">Full Stack Developer | Backend</h1>
-[![](https://visitcount.itsvg.in/api?id=glackyy&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
