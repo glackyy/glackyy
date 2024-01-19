@@ -1,5 +1,4 @@
-<img src="https://giphy.com/embed/BgKEiHf1xNV0h6IcSX">
-<h1 align="center">Full Stack Developer | Backend</h1>
+<iframe src="https://giphy.com/embed/BgKEiHf1xNV0h6IcSX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SignatureEntertainmentUK-signatureentertainment-mel-gibson-hot-seat-BgKEiHf1xNV0h6IcSX">via GIPHY</a></p><h1 align="center">Full Stack Developer | Backend</h1>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
