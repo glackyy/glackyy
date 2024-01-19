@@ -1,4 +1,4 @@
-<img src="http://iplayoldgames.tumblr.com/post/77175069485/encircle-instinctualization-the-matrix">
+<img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif">
 <h1 align="center">Full Stack Developer | Backend</h1>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
