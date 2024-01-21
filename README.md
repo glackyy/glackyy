@@ -1,5 +1,5 @@
 <img width="100%" src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif">
-<h1 align="center">Full Stack Developer | Backend</h1>
+<h1 align="center">Full Stack Developer | Back-end</h1>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
