@@ -8,6 +8,10 @@
   <h3>🌱 I’m currently learning TypeScript</h3>
   
   <h3>💬 Ask me about Anything, You are Welcome</h3>
+
+  <h3>📫 How to reach me othmanesticky@gmail.com </h3>
+
+  
   
 
 [![committers.top badge](https://user-badge.committers.top/morocco_public/glackyy.svg)](https://user-badge.committers.top/morocco_public/glackyy)
