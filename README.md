@@ -1,7 +1,7 @@
 <img width="100%" src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif">
 <h1 align="center">Full Stack Developer | Back-end</h1>
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
   <h3>🔭 I’m currently working on React/Python Project</h3>
   
