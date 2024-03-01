@@ -4,10 +4,16 @@
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
   <h3>🔭 I’m currently working on React/Python Project</h3>
+  
   <h3>🌱 I’m currently learning TypeScript</h3>
+  
   <h3>💬 Ask me about Anything, You are Welcome</h3>
+  
 
 [![committers.top badge](https://user-badge.committers.top/morocco_public/glackyy.svg)](https://user-badge.committers.top/morocco_public/glackyy)
+
+
+
 
 
 ## 🌐 Socials:
